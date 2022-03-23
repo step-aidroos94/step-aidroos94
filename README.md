@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aidroos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Sudan</h3>
 <p align="center"><img src ="https://github.com/Tarunagg1/Tarunagg1/blob/main/code1.gif" alt ="amaravindmenon" /> </p>
 - 📫 How to reach me **Stepaidroos2016@gmail.com**
 
